@@ -1,13 +1,15 @@
-# Catálogo de firmwares de Switch II Tools
-# Sube este archivo a tu repositorio y pon su URL "raw" en DEFAULT_CATALOG_URL
-# (dentro de switch2_tools.py) o en %APPDATA%\switch2tools.json (clave "catalog_url").
-#
-# Una entrada por línea. Formatos admitidos:
+# Catálogo de firmwares de Switch II Tools  ·  by TheWizWiki
+# Pulsa "☁ GitHub" en la herramienta para cargar esta lista.
+# Una entrada por línea:
 #     Nombre visible | https://.../archivo.uf2
-#     https://.../firmware.bin          (el nombre se toma del archivo)
+#     https://.../archivo.bin        (el nombre se toma del propio archivo)
 # Las líneas que empiezan por # son comentarios.
-#
-# Ejemplos (cambia las URL por las tuyas):
-Blink Pico (RP2040)   | https://raw.githubusercontent.com/TheWizWiki/SwitchIITools/main/firmware/blink.uf2
-Blink Pico 2 (RP2350) | https://raw.githubusercontent.com/TheWizWiki/SwitchIITools/main/firmware/blink_rp2350.uf2
-https://raw.githubusercontent.com/TheWizWiki/SwitchIITools/main/firmware/payload.bin
+
+# --- Payloads Civ7 (.uf2) ---
+Civ7 · Pico 1 (RP2040)       | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/civ7-pico1.uf2
+Civ7 · Pico 1 JIS (RP2040)   | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/civ7-pico1-jis.uf2
+Civ7 · Pico 2 (RP2350)       | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/civ7-pico2.uf2
+Civ7 · Pico 2 JIS (RP2350)   | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/civ7-pico2-jis.uf2
+
+# --- Save (.bin) para el botón Save ---
+Save template                | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/save_template.bin
