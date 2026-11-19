@@ -11,5 +11,8 @@ Civ7 · Pico 1 JIS (RP2040)   | https://raw.githubusercontent.com/TheWizWikii/Sw
 Civ7 · Pico 2 (RP2350)       | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/civ7-pico2.uf2
 Civ7 · Pico 2 JIS (RP2350)   | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/civ7-pico2-jis.uf2
 
+# --- Payloads Civ7 (.js) ---
+TetrisRGL       | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/TetrisRGL.js
+
 # --- Save (.bin) para el botón Save ---
 Save template                | https://raw.githubusercontent.com/TheWizWikii/SwitchIITools/main/payloads/save_template.bin
