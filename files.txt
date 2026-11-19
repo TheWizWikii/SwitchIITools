@@ -1,0 +1,13 @@
+# Catálogo de firmwares de Switch II Tools
+# Sube este archivo a tu repositorio y pon su URL "raw" en DEFAULT_CATALOG_URL
+# (dentro de switch2_tools.py) o en %APPDATA%\switch2tools.json (clave "catalog_url").
+#
+# Una entrada por línea. Formatos admitidos:
+#     Nombre visible | https://.../archivo.uf2
+#     https://.../firmware.bin          (el nombre se toma del archivo)
+# Las líneas que empiezan por # son comentarios.
+#
+# Ejemplos (cambia las URL por las tuyas):
+Blink Pico (RP2040)   | https://raw.githubusercontent.com/TheWizWiki/SwitchIITools/main/firmware/blink.uf2
+Blink Pico 2 (RP2350) | https://raw.githubusercontent.com/TheWizWiki/SwitchIITools/main/firmware/blink_rp2350.uf2
+https://raw.githubusercontent.com/TheWizWiki/SwitchIITools/main/firmware/payload.bin
