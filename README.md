@@ -1,11 +1,14 @@
 # SwitchIITools
 
+---
+
 ## 🖼️ Vista Previa
 
 ![Alt-payload](https://i.imgur.com/m8HByCg.png)
 
 ---
 
-Creditos:
+## 🙏 Créditos
 
-*Gezine por CivSwitch*
+* **[CivSwitch]([https://www.mamedev.org/](https://github.com/Gezine/CivSwitch))** 
+
